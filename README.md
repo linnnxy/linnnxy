@@ -1,5 +1,5 @@
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/2e217f1d-0b8f-4c59-b0fb-ce08b900ca09"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/ac907c00-3aba-4a25-9c14-c6a4d2703ea5"/>
 <br>
 <br>
 <br>
@@ -32,26 +32,27 @@ Compartilhar o progresso e receber feedback construtivo.
  <h2 align="left">Social Media</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/bianca-sousa-3abb94284/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3081d353-e11e-4605-ba0e-424fb7c07e15" height="35" alt="linkedin logo"  />
+    <img src="https://github.com/user-attachments/assets/05cd79f4-e3f9-4e0d-aef1-171f50727c8c" height="25" alt="linkedin logo" />
    
   </a>
   <a href="linxyharu@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e3bad250-33d5-48d2-96eb-3e8b97bdd3bc" height="35" alt="gmail logo"  />
+    <img src="https://github.com/user-attachments/assets/6b54fce0-8e34-44ee-8d0b-47193b1af6b6" height="25" alt="gmail"  />
    </a>
   <a href="https://www.instagram.com/bia_zzz_/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/98e75659-c0fd-4759-800a-0e31f268ec10" height="35" alt="instagram logo"  />
+    <img src="https://github.com/user-attachments/assets/2fe7192a-f335-45fd-94b7-beedec5d8b25" height="25" alt="instagram" />
    </a>
-  <img src="https://github.com/user-attachments/assets/fde8a084-d44f-414e-bf08-174f18ce993b" height="35" alt="twitter logo"  />
- <img src="https://github.com/user-attachments/assets/ac2b0c50-d830-469f-9522-dd7dfb346471" height="35" alt="discord logo"  />  
+   <a href="https://x.com/IamBiazz" target="_blank">
+  <img src="https://github.com/user-attachments/assets/ecebc32c-2462-4f8a-bc3b-1ee39361ae7c"height="25" alt="twitter"  />
+  
 </div>
 
 
 
 <div align="left"> 
  <h2>My Skills</h2>
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/03b78234-4afe-478f-ae14-4d1a77698f4f">
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/410e196b-5b64-40cd-82df-3cd2af18767c">
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/3f26b1e5-2944-420d-aee3-2eb48929c476">
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/38da0ef6-0824-4d74-a3d0-980e57351939">
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/5099cb0e-b7ea-4c0e-a65e-30af6b360ee1">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f836914d-f0f7-4c10-83e9-218565ac47e2">
 </div>
 <br>
 <br>
@@ -59,9 +60,9 @@ Compartilhar o progresso e receber feedback construtivo.
 <br>
 <div align=""> 
  <h2>In Progress...</h2>
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/68c02ae4-c58d-4428-896f-17a8f4ab7902">
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/4daf48ad-1174-4080-988d-787c7ef2fc71">
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/3f26b1e5-2944-420d-aee3-2eb48929c476">
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/7fdeb260-e8f3-487d-8f1f-5c7b3a575ee6">
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/be997a10-5ff2-4aa7-9e87-0768d5e00636">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f836914d-f0f7-4c10-83e9-218565ac47e2">
 </div>
 <br>
 <br>
