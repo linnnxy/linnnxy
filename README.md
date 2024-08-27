@@ -27,7 +27,7 @@ Compartilhar o progresso e receber feedback construtivo.
 <br>
 
 <div align="right">
- <img align="right" height="400" src="https://i.imgflip.com/65efzo.gif"  />
+ <img align="right" height="400" src="https://github.com/user-attachments/assets/9a5ff071-0413-482c-bf63-03422e34390f"  />
 </div>
  <h2 align="left">Social Media</h2>
 <div align="left">
