@@ -1,86 +1,85 @@
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/ac907c00-3aba-4a25-9c14-c6a4d2703ea5"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/2a83a804-889d-4c97-8a5d-edf7c8ff0b8c"/>
 <br>
 <br>
-<br>
-<div align="left">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=24&duration=2000&pause=50&color=FF538C&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=&width=435&lines=Hello+world!;My+Name+Is+Bianca;I'm+23+years+old;I+am+from+Brazil" alt="Typing SVG" /></a> </div>
-<p>
-🐱‍👤Sou uma dev explorando o universo dos codigos. Este repositório é um espaço onde estou praticando e aprimorando minhas habilidades na programação.
- 
-✨ O Que Você Vai Encontrar Aqui:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8449FF&width=435&lines=%3CHello+World%3E;My+Name+Is+Bianca.;I'm++developer.;I'm+from+Brazil." alt="Typing SVG" /></a>
 
-Projetos de Aprendizado: Páginas e projetos desenvolvidos durante meu processo de aprendizado em HTML, CSS e JavaScript.
-Código JavaScript: Scripts que adicionam funcionalidades e interatividade aos meus projetos web.
-Layouts e Design: Exemplos de layouts e estilos CSS aplicados em projetos diversos.
-Progresso Contínuo: Melhorias e atualizações no código à medida que vou absorvendo novos conhecimentos e práticas.
+<h1> 👋 Olá, eu sou a Bianca!</h1>
 
-✨ Objetivos:
+🚀 Explorando o mundo do desenvolvimento e sempre buscando aprender mais!
 
-Aprender e aplicar novos conceitos de front-end.
-Melhorar a qualidade do código e a organização dos projetos.
-Compartilhar o progresso e receber feedback construtivo.
+Sou estudante de Análise e Desenvolvimento de Sistemas(ADS), apaixonada por tecnologia e programação. Estou dando meus primeiros passos no universo do desenvolvimento e quero evoluir cada dia mais, construindo projetos e adquirindo novas habilidades.
 <br>
-<br>
-🌱 Sinta-se à vontade para explorar, comentar e contribuir. Estou sempre aberta a sugestões e dicas para melhorar!
-<br>
-<br>
+ <h2>🌱 Sobre mim</h2>
 
-<div align="right">
- <img align="right" height="400" src="https://github.com/user-attachments/assets/9a5ff071-0413-482c-bf63-03422e34390f"  />
-</div>
- <h2 align="left">Social Media</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/bianca-sousa-3abb94284/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/05cd79f4-e3f9-4e0d-aef1-171f50727c8c" height="25" alt="linkedin logo" />
-   
-  </a>
-  <a href="linxyharu@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6b54fce0-8e34-44ee-8d0b-47193b1af6b6" height="25" alt="gmail"  />
-   </a>
-  <a href="https://www.instagram.com/bia_zzz_/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2fe7192a-f335-45fd-94b7-beedec5d8b25" height="25" alt="instagram" />
-   </a>
-   <a href="https://x.com/IamBiazz" target="_blank">
-  <img src="https://github.com/user-attachments/assets/ecebc32c-2462-4f8a-bc3b-1ee39361ae7c"height="25" alt="twitter"  />
-  
-</div>
+    🎓 Cursando ADS e aprimorando minhas habilidades com cursos e projetos.
+    💻 Tenho experiência com desenvolvimento web e quero expandir para outras áreas da tecnologia.
+    🗃️ Buscando aprofundamento em banco de dados.
+    🚀 Sempre em busca de novos desafios e oportunidades para crescer!
 
+ <h2>🛠️ Tecnologias & Ferramentas</h2>
 
+<h3>📌 Experiência com:</h3>
 
-<div align="left"> 
- <h2>My Skills</h2>
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/38da0ef6-0824-4d74-a3d0-980e57351939">
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/5099cb0e-b7ea-4c0e-a65e-30af6b360ee1">
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f836914d-f0f7-4c10-83e9-218565ac47e2">
-</div>
-<br>
-<br>
-<br>
-<br>
-<div align=""> 
- <h2>In Progress...</h2>
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/7fdeb260-e8f3-487d-8f1f-5c7b3a575ee6">
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/be997a10-5ff2-4aa7-9e87-0768d5e00636">
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f836914d-f0f7-4c10-83e9-218565ac47e2">
-</div>
-<br>
+    HTML, CSS, JavaScript
+    Angular
+    Git & GitHub
+
+<h3>📌 Aprendendo e explorando:</h3>
+
+    MySQL e modelagem de banco de dados
+    Java e Python
+    Desenvolvimento Back-end
+
+<h2>🚀 Projetos</h2>
+Aqui no meu GitHub, compartilho meus projetos e estudos. Feedbacks e colaborações são sempre bem-vindos!
 <br>
 <br>
 <div align="center">
  <h2>Statistic</h2
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=linnnxy&theme=shadow-purple&hide_border=true&border_radius=13.4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=570&card_height=199" alt="GitHub Streak" /></a>
+<br>
+<br>
+<br>
+<div align="center"> 
+ <h2>My Skills</h2>
+ 
+<img align="center" src="https://github.com/user-attachments/assets/87b68e39-b5cd-4717-b536-6f23fc1961ea" alt="https://www.flaticon.com/free-icons/steam">
+<img align="center" src="https://github.com/user-attachments/assets/820567cd-a5d4-420b-ad9e-664b8b1a796b" alt="https://www.flaticon.com/free-icons/steam">
+<img align="center" src="https://github.com/user-attachments/assets/b79e1a98-dca1-4fab-aeaf-4b02f93c4adf" alt="https://www.flaticon.com/free-icons/steam">
+<img align="center" src="https://github.com/user-attachments/assets/eddb1d52-c60f-44ed-af4a-5e6929b96b48" alt="https://www.flaticon.com/free-icons/steam">
+
+<br>
+<br>
+<br>
+<br>
+<div align="center"> 
+ <h2>In Progress...</h2>
+<img align="center" src="https://github.com/user-attachments/assets/cf009024-e134-46ef-a252-2d0c1b861b75" alt="https://www.flaticon.com/free-icons/steam">
+<img align="center" src="https://github.com/user-attachments/assets/18f77cba-b50f-47d2-9700-4bf39e846ba3" alt="https://www.flaticon.com/free-icons/steam">
+</div>
+<br>
+<br>
+<br>
+<a href="https://www.linkedin.com/in/bianca-sousa-3abb94284/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4e07daf2-b19e-4d68-9fcf-d3a42529e40f" height="25" alt="https://www.flaticon.com/free-icons/steam" />
+  </a>
+  <a href="https://www.instagram.com/bia_zzz_/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/725a1fd8-1bfc-4124-b9a6-7150a999d031" height="25" alt="https://www.flaticon.com/free-icons/steam" />
+   </a>
+   <a href="https://x.com/IamBiazz" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e55621f9-878f-4a07-a49e-47748245a69c"height="25" alt="https://www.flaticon.com/free-icons/steam"  />
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=linnnxy&theme=rose&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=260" alt="GitHub Streak" /></a>
 
+</div>
+Vamos compartilhar conhecimento e construir soluções incríveis juntos! 🚀💻
+<a href="https://git.io/streak-stats"><img src="https://github.com/user-attachments/assets/56cd2671-cb6e-48aa-b2c3-bf747f0cb238" alt="GitHub Streak" /></a>
                
 
-<div align="center" >
 
- ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
-</div>
 
 
 
