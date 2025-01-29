@@ -38,7 +38,7 @@ Aqui no meu GitHub, compartilho meus projetos e estudos. Feedbacks e colabora√ß√
 <div align="center">
  <h2>Statistic</h2
 <div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=linnnxy&theme=midnight-purple&locale=pt_BR&card_width=501" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github.com/user-attachments/assets/1e541947-0d93-475a-a7c5-d15193b0f630" alt="GitHub Streak" /></a>
  
 </div>
 <br>
