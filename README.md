@@ -37,23 +37,20 @@ Aqui no meu GitHub, compartilho meus projetos e estudos. Feedbacks e colaboraç�
 <br>
 <div align="center">
  <h2>Statistic</h2
+<div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=linnnxy&theme=midnight-purple&locale=pt_BR&card_width=501" alt="GitHub Streak" /></a>
+ 
 </div>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=linnnxy&theme=shadow-purple&hide_border=true&border_radius=13.4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=570&card_height=199" alt="GitHub Streak" /></a>
 <br>
 <br>
 <br>
 <div align="center"> 
  <h2>My Skills</h2>
- 
-<img align="center" src="https://github.com/user-attachments/assets/87b68e39-b5cd-4717-b536-6f23fc1961ea" alt="https://www.flaticon.com/free-icons/steam">
+ <img align="center" src="https://github.com/user-attachments/assets/87b68e39-b5cd-4717-b536-6f23fc1961ea" alt="https://www.flaticon.com/free-icons/steam">
 <img align="center" src="https://github.com/user-attachments/assets/820567cd-a5d4-420b-ad9e-664b8b1a796b" alt="https://www.flaticon.com/free-icons/steam">
 <img align="center" src="https://github.com/user-attachments/assets/b79e1a98-dca1-4fab-aeaf-4b02f93c4adf" alt="https://www.flaticon.com/free-icons/steam">
 <img align="center" src="https://github.com/user-attachments/assets/eddb1d52-c60f-44ed-af4a-5e6929b96b48" alt="https://www.flaticon.com/free-icons/steam">
 
-<br>
-<br>
-<br>
 <br>
 <div align="center"> 
  <h2>In Progress...</h2>
@@ -72,10 +69,7 @@ Aqui no meu GitHub, compartilho meus projetos e estudos. Feedbacks e colaboraç�
    <a href="https://x.com/IamBiazz" target="_blank">
   <img src="https://github.com/user-attachments/assets/e55621f9-878f-4a07-a49e-47748245a69c"height="25" alt="https://www.flaticon.com/free-icons/steam"  />
 
-
-
 </div>
-Vamos compartilhar conhecimento e construir soluções incríveis juntos! 🚀💻
 <a href="https://git.io/streak-stats"><img src="https://github.com/user-attachments/assets/56cd2671-cb6e-48aa-b2c3-bf747f0cb238" alt="GitHub Streak" /></a>
                
 
