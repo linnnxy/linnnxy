@@ -22,7 +22,7 @@
 </div>
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=linnnxy&theme=shades-of-purple&border_radius=26.8&locale=pt_BR&card_width=580&card_height=180" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=linnnxy&theme=shades-of-purple&border_radius=26.8&locale=pt_BR&card_width=500&card_height=180" alt="GitHub Streak" /></a>
 
 
 <h3 align="left">🛠 Language and tools</h3>
