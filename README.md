@@ -60,10 +60,14 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
 
 ###
 
-![linnnxy's Stats](https://github-readme-stats.vercel.app/api?username=linnnxy&theme=bear&show_icons=true&hide_border=false&count_private=true)
-![linnnxy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=linnnxy&theme=bear&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linnnxy&theme=bear&show_icons=true&hide_border=false&count_private=true" alt="Stats" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linnnxy&theme=bear&hide_border=false" alt="Streak" width="300" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnnxy&theme=bear&show_icons=true&hide_border=false&layout=compact" alt="linnnxy's Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnnxy&theme=bear&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
 
 
 
