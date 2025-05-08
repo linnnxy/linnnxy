@@ -61,7 +61,7 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linnnxy&theme=bear&show_icons=true&hide_border=false&count_private=true" alt="Stats" width="421" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=linnnxy&theme=bear&hide_border=false" alt="Streak" width="450" />
 </div>
 
