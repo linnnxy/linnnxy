@@ -9,7 +9,7 @@
 
 <h4 align="left">Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e venho me dedicando ao desenvolvimento web há pouco mais de um ano. Nesse tempo, tenho buscado constantemente me aprimorar por meio da faculdade, cursos complementares e projetos pessoais, sempre com foco em aplicar o que aprendo na prática.
 
-Atualmente, estou aprofundando meus conhecimentos em tecnologias como Java, TypeScript, JavaScript, Angular, Spring Boot, além de ferramentas como Docker, Git e bancos de dados como MySQL e MariaDB. Também tenho explorado conceitos com a linguagem C e plataformas SaaS, compondo uma base sólida para atuar tanto no frontend quanto no backend.
+Atualmente, estou aprofundando meus conhecimentos em tecnologias como Java, Spring Boot, JavaScript, TypeScript, Angular, além de ferramentas como Docker, Git e bancos de dados como MySQL e MariaDB. Também tenho explorado diversas outras tecnologias, compondo uma base sólida para atuar tanto no Front-end quanto no Back-end.
 
 Estou sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedora. Fique à vontade para explorar meus projetos aqui no GitHub e acompanhar minha jornada!✨</h4>
 
