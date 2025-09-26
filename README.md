@@ -7,9 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA5E3&width=440&lines=%3C+Hello+World!+%3E;%3C+My+Name+Is+Bianca.+%3E;%3C+I+am+a+full-stack+developer+%3E;%3C+and+this+is+my+repository+%3E+" alt="Typing SVG" /></a>
 ###
 
-<h4 align="left">Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e venho me dedicando ao desenvolvimento web há pouco mais de um ano. Nesse tempo, tenho buscado constantemente me aprimorar por meio da faculdade, cursos complementares e projetos pessoais, sempre com foco em aplicar o que aprendo na prática.
-
-Atualmente, estou aprofundando meus conhecimentos em tecnologias como Java, Spring Boot, JavaScript, TypeScript, Angular, além de ferramentas como Docker, Git e bancos de dados como MySQL e MariaDB. Também tenho explorado diversas outras tecnologias, compondo uma base sólida para atuar tanto no Front-end quanto no Back-end.
+<h4 align="left">Olá! Sou estudante de Engenharia de Software e venho me dedicando ao desenvolvimento web há pouco mais de um ano. Nesse tempo, tenho buscado constantemente me aprimorar por meio da faculdade, cursos complementares e projetos pessoais, sempre com foco em aplicar o que aprendo na prática. Atualmente, estou aprofundando meus conhecimentos em tecnologias como Java, Spring Boot, JavaScript, TypeScript, Angular, além de ferramentas como Docker, Git e bancos de dados como MySQL e MariaDB, compondo uma base sólida para atuar tanto no Front-end quanto no Back-end.
 
 Estou sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedora. Fique à vontade para explorar meus projetos aqui no GitHub e acompanhar minha jornada!✨</h4>
 
